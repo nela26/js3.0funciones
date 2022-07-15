@@ -1,0 +1,25 @@
+.cont {
+    display: flex;
+    justify-content: space-around;
+}
+
+.obj {
+    width: 200px;
+    height: 200px;
+}
+
+#key1 {
+    background-color: red;
+}
+
+#key2 {
+    background-color: green;
+}
+
+#key3 {
+    background-color: blue;
+}
+
+#key4 {
+    background-color: yellow;
+}
